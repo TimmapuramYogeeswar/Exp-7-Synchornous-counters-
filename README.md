@@ -72,3 +72,4 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ![image](https://github.com/TimmapuramYogeeswar/Exp-7-Synchornous-counters-/assets/154494746/ceeef154-6727-4bdf-ac02-4af09cdfddf3)
 
 ### RESULTS 
+Synchornous-counters - up counter and down counter
