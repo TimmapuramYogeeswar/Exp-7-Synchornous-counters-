@@ -32,7 +32,7 @@ The Q outputs of each flip-flop will serve as the respective binary bits of the 
  
 
 Four-bit “Up” Counter
-![image](https://user-images.githubusercontent.com/36288975/169644758-b2f4339d-9532-40c5-af40-8f4f8c942e2c.png)
+![image](https://github.com/TimmapuramYogeeswar/Exp-7-Synchornous-counters-/assets/154494746/5e51800f-3bbb-42e9-9b9f-a17717d79f77)
 
 
 
@@ -41,7 +41,7 @@ Four-bit “Up” Counter
 As well as counting “up” from zero and increasing or incrementing to some preset value, it is sometimes necessary to count “down” from a predetermined value to zero allowing us to produce an output that activates when the zero count or some other pre-set value is reached.
 
 This type of counter is normally referred to as a Down Counter, (CTD). In a binary or BCD down counter, the count decreases by one for each external clock pulse from some preset value. Special dual purpose IC’s such as the TTL 74LS193 or CMOS CD4510 are 4-bit binary Up or Down counters which have an additional input pin to select either the up or down count mode.
-![image](https://user-images.githubusercontent.com/36288975/169644844-1a14e123-7228-4ed8-81a9-eb937dff4ac8.png)
+![image](https://github.com/TimmapuramYogeeswar/Exp-7-Synchornous-counters-/assets/154494746/3b8bf49f-ebbc-4138-99c8-5e41197f0bee)
 
 
 4-bit Count Down Counter
@@ -52,37 +52,23 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 ### PROGRAM 
 /*
-Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+![Screenshot 2023-11-26 172417](https://github.com/TimmapuramYogeeswar/Exp-7-Synchornous-counters-/assets/154494746/5c9e0f2d-bc88-4176-9b28-9dfb2c7197a4)
+![Screenshot 2023-11-26 171804](https://github.com/TimmapuramYogeeswar/Exp-7-Synchornous-counters-/assets/154494746/d18b9083-8ff3-4cf7-bae8-7d59d9fb93a1)
+
 */
-
-
-
-
-
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
-
-
-
-
-
-
-
-
 ### TIMING DIGRAMS FOR COUNTER  
 
+![image](https://github.com/TimmapuramYogeeswar/Exp-7-Synchornous-counters-/assets/154494746/fd99f9c5-6f5f-4728-9fb2-75ee90dcb30e)
 
+![image](https://github.com/TimmapuramYogeeswar/Exp-7-Synchornous-counters-/assets/154494746/293f6035-1163-41fd-89d1-ed0ef7c3beba)
 
 
 
 ### TRUTH TABLE 
-
-
-
-
-
+![image](https://github.com/TimmapuramYogeeswar/Exp-7-Synchornous-counters-/assets/154494746/c403a10e-1b67-47a5-a997-55ae1d7fe1e3)
+![image](https://github.com/TimmapuramYogeeswar/Exp-7-Synchornous-counters-/assets/154494746/ceeef154-6727-4bdf-ac02-4af09cdfddf3)
 
 ### RESULTS 
